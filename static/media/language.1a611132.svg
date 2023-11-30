@@ -1,0 +1,9 @@
+<svg viewBox="0 0 24 24" style="height: 24px;width: 24px;">
+    <symbol id="globe" fill="none" width="24" height="24" viewBox="0 0 24 24">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
+              d="M12 21c4.9707 0 9-4.0293 9-9s-4.0293-9-9-9-9 4.0293-9 9 4.0293 9 9 9Z" />
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
+              d="M12 21c2.7615 0 5-4.0293 5-9s-2.2385-9-5-9-5 4.0293-5 9 2.2385 9 5 9Z" />
+        <path stroke="currentColor" stroke-width="1.5" d="M3 12h18M12 3v18" />
+    </symbol>
+</svg>
